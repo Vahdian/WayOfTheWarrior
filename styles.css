@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Staatliches', cursive;
+    
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/16/aa/17/16aa17cb2736c65638737d7340d312a1.jpg");
+    background-image: url("https://i.pinimg.com/736x/5a/77/86/5a7786ec9095e8cd5a08591654fafa07.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+text-align: center;
+color: rgb(255, 255, 255);
+margin-top: 40px;
+padding: 10px;
+font-size: 70px;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(75, 75, 75);
+}
+
+footer{
+    align-items: center;
+    text-align: center;
+    
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+
+
+button{
+    
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+footer h2{
+    color: white;
+    margin-top: 200px;
+    font-size: 40px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(75, 75, 75);
+    
+}
+
+footer button:hover{
+    color: rgb(201, 158, 49);
+}
+
+#start1{
+    background-image: url("https://i.pinimg.com/originals/2e/92/16/2e9216946b9ef871d34f350320a43597.jpg");
+    background-size: cover;
+    color: rgb(233, 145, 45);
+    font-weight: 1000;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(75, 75, 75);
+}
+
+#start2{
+    background-image: url("https://pyxis.nymag.com/v1/imgs/bdc/6ab/e2ab22274a15743604705cf54b431a0c45-25-ice-dragon-ice-fire.rsocial.w1200.jpg");
+    background-size: cover;
+    color: rgb(152, 186, 223);
+    font-weight: 1000;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(26, 26, 26);
+}
+
+
+#start3{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDEc2LsH938IZtpXYi08ERlBTL4lxnL1DyQ&usqp=CAU");
+    background-size: cover;
+    color: rgb(189, 50, 50);
+    font-weight: 1000;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(75, 75, 75);
+}
